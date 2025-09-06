@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 - 2025</title>
+    
+    <!-- Externe stylesheet -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yorha@1.2.0/dist/yorha.min.css" type="text/css">
+
+    <!-- Interne CSS voor stijlen -->
+    <style>
+      body {
+        font-family: 'Comic Sans MS', sans-serif;
+        font-size: 18px;
+        color: #760000;
+      }
+      h1 {
+        font-family: 'Times New Roman', sans-serif;
+        font-size: 50px;
+        color: 	#ffffff;
+        text-align: center; 
+        background-color: transparent;
+        padding: 20px;
+        border: double 20px;
+      }
+      h2 {
+        font-family: 'Garamond', sans-serif;
+        font-size: 40px;
+        color: #fffedd;
+      }
+      .content-box {
+        background-color: #eb6767;
+        padding: 10px;
+        border: double 10px;
+        margin: 15px 0;
+        width: 97%;
+      }
+      .quote {
+        font-family: 'Outfit', sans-serif;
+        font-size: 24px;
+        color: #e70303;
+        text-align: center;
+        font-style: italic;
+      }
+      .center-img {
+        display: block;
+        margin: 0 auto;
+      }
+      h3 {
+        font-family: 'Garamond', sans-serif;
+        font-size: 30px;
+        color: #ffffff;
+      }
+      .instagram-media {
+        margin: 0 auto; 
+      }
+   
+      .instagram-wrapper {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  background-color: #ff0000; 
+  border: double 10px #ff8c8c;
+  padding: 20px; 
+  max-width: 600px; 
+  margin: 20px auto; 
+}
+      strong {
+       background-color: #663399; 
+       color: #d45a82; 
+    }
+      span {
+       color: #d45a82;
+     }
+    </style>
+</head>
+  
+<body>
+
+    <h1> <span>֍ </span>The 2025 season  <span> ֎</span></h1>
+
+    <img src="https://corp.formula1.com/wp-content/uploads/2024/04/2025-final.png" alt="F1 2025 calender" class="center-img" height="400" width="auto">
+
+    <blockquote class="quote">
+      "It's lights out and away we go with 2025"
+    </blockquote>
+
+    <h2>Wat hebben technologie en robotica te maken met fashion?</h2>
+    <div class="content-box">
+      Technologie kun je op meerdere manieren integreren in fashion. Je kunt bijvoorbeeld machines gebruiken om beweging en leven in kleding te creëren.
+    </div>
+
+    <h2>Wat kun je er allemaal mee maken?</h2>
+    <div class="content-box">
+      Je kunt heel veel maken. Een paar voorbeelden ter inspiratie zijn: 
+    </div>
+    <div class="content-box">
+      ✄ Een jurk met vlinders die door een motortje hun vleugels laten bewegen.
+      <br>✄ Een tuxedo met slangen die een mechanisme bevatten waardoor hun lichaam draait, wat een levend effect geeft.
+      <br>✄ Een kostuum waarin een rat (zoals in de film <strong>"Ratatouille"</strong>) is ingebouwd, die aan je haar trekt om de indruk te wekken dat je wordt geleid door de rat.
+      <br>✄ Een jurk met een mechanisme dat ervoor zorgt dat de jurk beweegt en wappert.
+      <br>✄ Een jurk met grote vleugels op de rug die door een motortje bewegen, wat de illusie geeft dat ze vliegen.
+    </div>
+
+    <div class="content-box">
+      Zoals je ziet zijn er veel mogelijkheden. Dit is een perfecte manier om fashion te personaliseren en nieuwe mogelijkheden te verkennen.
+    </div>
+
+    <h2>Waarvoor zou je dit kunnen gebruiken?</h2>
+    <div class="content-box">
+      Dit opent veel mogelijkheden, bijvoorbeeld bij cosplay, fashionshows of grote evenementen.
+    </div>
+
+    <h2>Hoe zou dit in zijn werk gaan?</h2>
+    <div class="content-box">
+      Laten we een jurk met vlinders als voorbeeld nemen, maar je kunt dit natuurlijk ook met andere ontwerpen toepassen.
+      <br> Je hebt meerdere opties, maar ze vereisen allemaal dat je de vlinders eerst maakt. Het handigst is om ze te 3D-printen, maar als je meer ervaring hebt, kun je ze ook op een andere manier maken.
+    </div>
+    <div class="content-box">
+      Er zijn verschillende mogelijkheden om een mechanisme te creëren waarmee de vleugels kunnen bewegen:
+    </div>
+
+    <h3>1. Gebruik van een kleine servo- of microservo-motor</h3>
+    <div class="content-box">
+      <u>Een servo- of microservo-motor kan de vleugels van de vlinder bewegen door middel van een scharniermechanisme.</u>
+      <br>
+      <br> <b>Benodigdheden:</b>
+      <br>✄ Een kleine servo- of microservo-motor (zoals de SG90)
+      <br>✄ Arduino of een andere microcontroller om de motor aan te sturen
+      <br>✄ Verbindingsdraden
+      <br>✄ Batterij voor voeding
+      <br>✄ 3D-geprinte scharnieren om de vleugels te verbinden met de motor
+      <br>
+      <br> <b>Hoe het werkt:</b>
+      <br>✄ Bevestig de vleugels aan scharnieren die met de motor zijn verbonden.
+      <br>✄ Programmeer de Arduino om de motor heen en weer te laten draaien, waardoor de vleugels wapperen.
+      <br>✄ De snelheid van het wapperen kan worden aangepast in de Arduino-code.
+    </div>
+
+    <h3>2. Mechanisch systeem met elastiekjes en veren</h3>
+    <div class="content-box">
+      <u>Als je geen elektronica wilt gebruiken, kun je een mechanisch systeem ontwerpen dat de vleugels laat bewegen door middel van elastiekjes of veren.</u>
+      <br>
+      <br> <b>Benodigdheden:</b>
+      <br>✄ Elastiekjes of veertjes
+      <br>✄ 3D-geprinte scharnieren aan de basis van de vleugels
+      <br>✄ Een draaiend mechanisme dat spanning toevoegt en loslaat
+      <br>
+      <br> <b>Hoe het werkt:</b>
+      <br>✄ Bevestig de vleugels met elastiekjes aan scharnieren.
+      <br>✄ Een draaiend mechanisme rekt de elastiekjes uit, waardoor de vleugels omhooggaan en weer terugveren.
+    </div>
+
+    <h3>3. Pneumatisch systeem</h3>
+    <div class="content-box">
+      <u>Je kunt kleine luchtpompen gebruiken om de vleugels door luchtdruk te laten bewegen.</u>
+      <br>
+      <br><b>Benodigdheden:</b>
+      <br>✄ Mini-luchtpompjes : blazen de lucht om beweging te maken.
+      <br>✄ Luchtbuizen : voor het transport van lucht naar de vleugels.
+      <br>✄ Scharnieren : om de vleugels flexibel te maken.
+      <br>
+      <br> <b>Hoe het werkt:</b>
+      <br>✄ De vleugels zijn verbonden met kleine blaasbalgen (luchtzakjes) die worden opgeblazen om de vleugels omhoog te laten gaan.
+      <br>✄ Wanneer de lucht weer ontsnapt, keren de vleugels terug naar hun oorspronkelijke positie.
+      <br>✄ Het systeem kan elektronisch worden aangestuurd om een ritmische beweging te creëren.
+
+    </div>
+  <h3> 4. Elektromagnetisch mechanisme </h3>
+  <div class="content-box">
+       <u> Een andere optie is om elektromagneten te gebruiken om een kleine beweging te veroorzaken.</u>
+       <br> 
+       <br> <B> Benodigdheden: </B>
+       <br>✄ Kleine elektromagneten
+       <br>✄ Veertjes voor herstelkracht
+       <br>✄ Stalen vleugelbevestigingen
+       <br> 
+       <br> <B> Hoe het werkt: </B>
+       <br>✄ De elektromagneet trekt aan de stalen bevestiging op de vleugel om de vleugels omhoog te brengen.
+       <br>✄ Een veer trekt de vleugels weer naar beneden wanneer de elektromagneet uitgeschakeld is.
+  </div>
+   <h2>Een voorbeeld van een creator van zulke kleren</h2>
+<div class="content-box">
+  <div style="text-align: center;">
+    Dit is 
+    <a href="https://www.instagram.com/shebuildsrobots/reel/C80S_L4xB_B/" style="color: #598f7f;" target="_blank">@shebuildsrobots</a>.
+    
+    <br>
+    <div class="instagram-wrapper">
+    <blockquote 
+      class="instagram-media" 
+      data-instgrm-captioned 
+      data-instgrm-permalink="https://www.instagram.com/reel/DBBkgnIRmnR/?utm_source=ig_embed&amp;utm_campaign=loading" 
+      data-instgrm-version="14"
+      style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px auto; max-width:540px; min-width:326px; padding:0; width:89.375%;">
+    </blockquote>
+    <script async src="//www.instagram.com/embed.js"></script>
+  </div>
+</div>
+</div>
+    <div class="content-box">
+      Ze is een <strong>fashion engineer</strong> met onder andere haar 
+      <a href="https://shebuildsrobots.com/" style="color: #598f7f;" target="_blank">eigen website</a> en 
+      <a href="https://github.com/shebuildsrobots?fbclid=PAZXh0bgNhZW0CMTEAAaZptIVcAEdE5nWdm0zJFH6naWX2Xi5XE5p2hgsYBt3_NBHrb5FOuS8ssiA_aem_85ufscGxrFRLybHByXUgHA" style="color: #598f7f;" target="_blank">eigen GitHub-account</a>. 
+      Ze woont in de Verenigde Staten, waar ze deelneemt aan het programma <strong>"Chicago Public Library Maker-in-Residence"</strong>.
+      <br>
+      Ze is actief op sociale media en neemt haar volgers mee in de wereld van robotica.
+      <br> 
+      Op haar github account gaat ze dieper in op het proces en hoe het nu precies in elkaar zit. Je vindt daar ook alle belangrijke info en documenten om haar creaties na te maken en het inzicht te krijgen hoe het werkt.
+    </div>
+
+    <script src="index.js"></script>
+
+</body>
+</html>
